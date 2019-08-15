@@ -1,0 +1,6 @@
+origin	destination
+Chicago, IL (ORD-O'Hare Intl.)	San Francisco, CA (SFO-San Francisco Intl.)
+Chicago, IL (ORD-O'Hare Intl.)	New York (NYC-All Airports)
+Chicago, IL (ORD-O'Hare Intl.)	Miami, FL (MIA-All Airports)
+Chicago, IL (ORD-O'Hare Intl.)	Vancouver, BC, Canada (YVR-All Airports)
+Chicago, IL (ORD-O'Hare Intl.)	Seattle, WA (SEA-Seattle - Tacoma Intl.)
