@@ -5,7 +5,7 @@ import datetime, time, json, os, csv
 from bs4 import BeautifulSoup
 
 odpair_list = []
-with open(os.getcwd() + '/origin-destination-test.txt', newline = '') as odpairs:
+with open(os.getcwd() + '/origin-destination.txt', newline = '') as odpairs:
     odpair_reader = csv.DictReader(odpairs, delimiter='\t')
     for odpair in odpair_reader:
         odpair_list.append(dict(odpair))
